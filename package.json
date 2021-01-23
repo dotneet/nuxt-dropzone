@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/Etheryte/nuxt-dropzone#readme",
   "dependencies": {
-    "vue2-dropzone": "git+ssh://git@github.com/dotneet/vue-dropzone.git"
+    "vue2-dropzone": "https://github.com/dotneet/vue-dropzone.git"
   },
   "files": [
     "dropzone.css"
